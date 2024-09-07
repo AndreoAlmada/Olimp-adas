@@ -1,4 +1,4 @@
-Buscador de Atletas Brasileiros
+Buscador de Atletas Brasileiros - Imersão Dev com Google Gemini
 
 Uma aplicação web simples e intuitiva para pesquisar informações sobre atletas brasileiros.
 
